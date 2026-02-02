@@ -19,3 +19,6 @@ Run script again
 Script will scan your scripts for requirements. If any are missing it will tell you.
 
 Click on "Launch: of any script to open it immediately.
+
+
+<img width="875" height="669" alt="image" src="https://github.com/user-attachments/assets/a18f0f11-e394-4f89-92a6-f79139a74cda" />
